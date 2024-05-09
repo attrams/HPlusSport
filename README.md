@@ -23,7 +23,7 @@ To run the project on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-    git clone https://github.com/your-username/your-project-repository.git
+    git clone https://github.com/attrams/HPlusSport.git
     cd HPlusSport/HPlusSport.API
 ```
 
@@ -62,3 +62,7 @@ If you prefer to use Docker, follow these steps to containerize and run the proj
 This command maps port 8080 of the container to port `<port_number>` on your host.
 
 3. Access the application via the following URL: `http://localhost:5221/swagger/index.html`
+
+
+## Swagger Preview
+![Swagger API documentation](assets/img/swagger-page-example.png)
